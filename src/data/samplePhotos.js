@@ -90,44 +90,6 @@ const samplePhotos = [
     date: '2025-09-14',
     isSample: true,
   },
-
-  // 2024
-  {
-    id: 'sample-2024-1',
-    year: 2024,
-    src: img('amber-vineyard-24', 1300, 1300),
-    title: 'Amber Vineyard',
-    caption: 'Harvest week, the rows still wet from morning fog.',
-    date: '2024-09-02',
-    isSample: true,
-  },
-  {
-    id: 'sample-2024-2',
-    year: 2024,
-    src: img('blue-hour-skyline-24', 1400, 1000),
-    title: 'Blue Hour Skyline',
-    caption: 'Twelve floors up, fifteen minutes before the lights came on.',
-    date: '2024-04-11',
-    isSample: true,
-  },
-  {
-    id: 'sample-2024-3',
-    year: 2024,
-    src: img('wildflower-field-24', 1200, 1600),
-    title: 'Wildflower Field',
-    caption: 'A short detour off the highway that turned into an hour.',
-    date: '2024-05-27',
-    isSample: true,
-  },
-  {
-    id: 'sample-2024-4',
-    year: 2024,
-    src: img('foundry-light-24', 1100, 1500),
-    title: 'Foundry Light',
-    caption: 'Old industrial quarter, shaft of light through a broken roof panel.',
-    date: '2024-10-19',
-    isSample: true,
-  },
 ];
 
 export default samplePhotos;
