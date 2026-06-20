@@ -10,8 +10,8 @@ export default function Header({ onUploadClick }) {
             <Camera size={18} strokeWidth={1.75} />
           </span>
           <div className="site-header__title">
-            <span className="site-header__name">Field &amp; Frame</span>
-            <span className="site-header__tag">a photographic archive</span>
+            <span className="site-header__name">Dhiya Sri</span>
+            <span className="site-header__tag">a photographic memory</span>
           </div>
         </div>
 
@@ -23,7 +23,7 @@ export default function Header({ onUploadClick }) {
           whileTap={{ scale: 0.96 }}
         >
           <Upload size={16} strokeWidth={2} />
-          <span>Upload photos</span>
+          <span>New Memory</span>
         </motion.button>
       </div>
     </header>
