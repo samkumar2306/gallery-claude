@@ -157,26 +157,6 @@ const samplePhotos = [
     date: '2023-10-25',
     isSample: true,
   },
-
-  // 2022
-  {
-    id: 'sample-2022-1',
-    year: 2022,
-    src: img('desert-road-22', 1400, 1000),
-    title: 'Desert Road',
-    caption: 'Three hundred miles of straight line and heat haze.',
-    date: '2022-06-03',
-    isSample: true,
-  },
-  {
-    id: 'sample-2022-2',
-    year: 2022,
-    src: img('riverside-dusk-22', 1200, 1600),
-    title: 'Riverside Dusk',
-    caption: 'The last good light of a long, slow summer evening.',
-    date: '2022-08-29',
-    isSample: true,
-  },
 ];
 
 export default samplePhotos;
