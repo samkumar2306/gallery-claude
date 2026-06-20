@@ -128,35 +128,6 @@ const samplePhotos = [
     date: '2024-10-19',
     isSample: true,
   },
-
-  // 2023
-  {
-    id: 'sample-2023-1',
-    year: 2023,
-    src: img('coastal-fog-23', 1400, 1100),
-    title: 'Coastal Fog',
-    caption: 'The lighthouse only appeared for about ninety seconds.',
-    date: '2023-03-08',
-    isSample: true,
-  },
-  {
-    id: 'sample-2023-2',
-    year: 2023,
-    src: img('market-portraits-23', 1100, 1400),
-    title: 'Market Portraits',
-    caption: 'A series of quick, candid frames, all asked for first.',
-    date: '2023-07-16',
-    isSample: true,
-  },
-  {
-    id: 'sample-2023-3',
-    year: 2023,
-    src: img('autumn-canopy-23', 1300, 1300),
-    title: 'Autumn Canopy',
-    caption: 'Looking straight up, the one frame that made the whole roll worth it.',
-    date: '2023-10-25',
-    isSample: true,
-  },
 ];
 
 export default samplePhotos;
